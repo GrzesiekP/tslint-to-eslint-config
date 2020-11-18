@@ -151,3 +151,5 @@ This will help inform the generated ESLint configuration file's [env](https://es
 ## Development
 
 See the [Code of Conduct](./.github/CODE_OF_CONDUCT.md) and [general development docs](./docs/Development.md). 💖
+
+Hello from grzegorzpawlowski.pl
